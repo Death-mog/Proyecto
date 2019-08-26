@@ -1,0 +1,8 @@
+lista.inset(0,"sero") Sirve para agregar un nuevo elemento o objeto a la lista agregandolo en el lugar indicado
+lista.append(2) Sirve para agregar un nuevo elemento o objeto 
+lista.remove(2)
+Lista.extend([2,3,4]) para agregar mas de un elemento a la lista
+Para utilizar el .split solo en cadenas "Hola mundo".split()
+lista[-1] sirve para ir de reversa
+
+amor, muerto y robots
